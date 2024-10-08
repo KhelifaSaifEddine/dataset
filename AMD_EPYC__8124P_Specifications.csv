@@ -1,0 +1,28 @@
+Attribute,Value
+Name,AMD EPYC™ 8124P
+Family,EPYC
+Series,EPYC 8004 Series
+Form Factor,Servers
+# of CPU Cores,16
+# of Threads,32
+Max. Boost Clock,Up to 3 GHz
+All Core Boost Speed,2.95 GHz
+Base Clock,2.45 GHz
+L3 Cache,64 MB
+1kU Pricing,639 USD
+Default TDP,125W
+AMD Configurable TDP (cTDP),120-150W
+CPU Socket,SP6
+Socket Count,1P
+Launch Date,09/18/2023
+Connectivity,PCI Express® Version
+PCI Express® Version,PCIe® 5.0 x96
+System Memory Type,DDR5
+Memory Channels,6
+System Memory Specification,Up to 4800 MT/s
+Per Socket Mem BW,230.4 GB/s
+Product IDs,Product IDs
+Product ID Tray,100-000001135
+Key Features,Key Features
+Supported Technologies,"AMD Infinity Guard , AMD Infinity Architecture"
+Workload Affinity,"Client-Middleware Computing , HCI , Media streaming , Networking|NFV , SW-defined storage"

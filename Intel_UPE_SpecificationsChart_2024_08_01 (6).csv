@@ -1,0 +1,98 @@
+﻿UPE | Compare Intel® Products
+08/01/2024 10:44:27 PM
+,Intel® Xeon® Gold 6538Y+ Processor (60M Cache- 2.20 GHz)
+
+Essentials
+Product Collection,5th Gen Intel® Xeon® Scalable Processors
+Code Name,Products formerly Emerald Rapids
+Vertical Segment,Server
+Processor Number,6538Y+
+Lithography,Intel 7
+Recommended Customer Price,$3141.00
+
+CPU Specifications
+Total Cores,32
+Total Threads,64
+Max Turbo Frequency,4 GHz
+Processor Base Frequency,2.2 GHz
+Cache,60 MB
+Intel® UPI Speed,20 GT/s
+Max # of UPI Links,3
+TDP,225 W
+
+Intel® Speed Select Technology - Performance Profile (Intel® SST-PP)
+,ConfigActive CoresBase FrequencyTDPDescription6538Y+ (0)322.22256538Y+ (1)282.22056538Y+ (2)242.3205
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q4'23
+Servicing Status,Baseline Servicing
+Use Conditions,Server/Enterprise
+
+Memory Specifications
+Max Memory Size (dependent on memory type),4 TB
+Memory Types,Up to DDR5 5200 MT/s 1DPC
+Max # of Memory Channels,8
+ECC Memory Supported   ‡,Yes
+
+Expansion Options
+Scalability,2S
+PCI Express Revision,5.0
+Max # of PCI Express Lanes,80
+
+Package Specifications
+Sockets Supported,FCLGA4677
+Package Carrier,E1B
+DTS Max,90 °C
+TCASE,79
+Package Size,77.5mm x 56.5mm
+
+Intel® On Demand Available Upgrades
+,Activation ModelQATDLBDSAIAASGX512Communications & Storage Suite 222SGX 512GB512
+Intel® Virtual RAID on CPU (Intel® VROC) Activation Options,VROC RAID1 Only |  VROC Standard |  VROC Premium
+
+Advanced Technologies
+Intel® On Demand Activation Model,Yes
+Intel® QuickAssist Technology (QAT),1 default devices
+Intel® Dynamic Load Balancer (DLB),1 default devices
+Intel® Data Streaming Accelerator (DSA),1 default devices
+Intel® In-memory Analytics Accelerator (IAA),1 default devices
+Intel® Advanced Matrix Extensions (AMX),Yes
+Intel® Speed Select Technology – Core Power,Yes
+Intel® Speed Select Technology – Turbo Frequency,Yes
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Speed Select Technology - Base Frequency,Yes
+High Priority Cores,12
+High Priority Core Frequency,2.4 GHz
+Low Priority Cores,20
+Low Priority Core Frequency,2 GHz
+Intel® Resource Director Technology (Intel® RDT),Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,Yes
+Intel® 64 ‡,Yes
+Instruction Set Extensions,Intel® AMX |  Intel® SSE4.2 |  Intel® AVX |  Intel® AVX2 |  Intel® AVX-512
+# of AVX-512 FMA Units,2
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Trust Domain Extensions (Intel® TDX),Yes
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® SPS
+Default Maximum Enclave Page Cache (EPC) Size for Intel® SGX,128 GB
+Intel® Crypto Acceleration,Yes
+Intel® QuickAssist Software Acceleration,Yes
+Intel® Platform Firmware Resilience Support,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® Total Memory Encryption - Multi Key,Yes
+Intel® Total Memory Encryption,Yes
+Intel® AES New Instructions,Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Intel® Run Sure Technology,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes

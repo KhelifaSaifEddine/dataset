@@ -1,0 +1,83 @@
+﻿UPE | Compare Intel® Products
+08/01/2024 10:53:07 PM
+,Intel® Xeon® Platinum 8360Y Processor (54M Cache- 2.40 GHz)
+
+Essentials
+Product Collection,3rd Gen Intel® Xeon® Scalable Processors
+Code Name,Products formerly Ice Lake
+Vertical Segment,Server
+Processor Number,8360Y
+Lithography,10 nm
+Recommended Customer Price,$5383.00
+
+CPU Specifications
+Total Cores,36
+Total Threads,72
+Max Turbo Frequency,3.50 GHz
+Processor Base Frequency,2.40 GHz
+Cache,54 MB
+Intel® UPI Speed,11.2 GT/s
+Max # of UPI Links,3
+TDP,250 W
+
+Intel® Speed Select Technology - Performance Profile (Intel® SST-PP)
+,ConfigActive CoresBase FrequencyTDPDescription8360Y(0)362.4 GHz250 W8360Y(1)322.5 GHz250 W8360Y(2)242.6 GHz220 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q2'21
+Servicing Status,Baseline Servicing
+Embedded Options Available,No
+
+Memory Specifications
+Max Memory Size (dependent on memory type),6 TB
+Memory Types,DDR4-3200
+Maximum Memory Speed,3200 MHz
+Max # of Memory Channels,8
+Intel® Optane™ Persistent Memory Supported,Yes
+ECC Memory Supported   ‡,Yes
+
+Expansion Options
+Scalability,2S
+PCI Express Revision,4.0
+Max # of PCI Express Lanes,64
+
+Package Specifications
+Sockets Supported,FCLGA4189
+TCASE,80°C
+Package Size,77.5mm x 56.5mm
+
+Advanced Technologies
+Intel® Speed Select Technology – Core Power,Yes
+Intel® Speed Select Technology – Turbo Frequency,Yes
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Speed Select Technology - Performance Profile,Yes
+Intel® Speed Select Technology - Base Frequency,Yes
+High Priority Cores,12
+High Priority Core Frequency,2.70 GHz
+Low Priority Cores,24
+Low Priority Core Frequency,2.10 GHz
+Intel® Resource Director Technology (Intel® RDT),Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,Yes
+Intel® 64 ‡,Yes
+Instruction Set Extensions,Intel® SSE4.2 |  Intel® AVX |  Intel® AVX2 |  Intel® AVX-512
+# of AVX-512 FMA Units,2
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® SPS
+Default Maximum Enclave Page Cache (EPC) Size for Intel® SGX,64 GB
+Intel® Crypto Acceleration,Yes
+Intel® Platform Firmware Resilience Support,Yes
+Intel® Total Memory Encryption,Yes
+Intel® AES New Instructions,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® Run Sure Technology,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes

@@ -1,0 +1,33 @@
+Attribute,Value
+Name,Intel Xeon Platinum 8259CL @ 2.50GHz
+Class,Server
+Socket,LGA 3647
+Clockspeed,2.5 GHz
+Turbo Speed,3.5 GHz
+Cores,24
+Threads,48
+Typical TDP,210 W
+L1 Instruction Cache,24 x 32 KB
+L1 Data Cache,24 x 32 KB
+L2 Cache,24 x 1024 KB
+L3 Cache,36 MB
+Other names,"Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz, Intel Xeon Platinum 8259CL CPU @ 2.50GHz"
+CPU First Seen on Charts,Q1 2020
+CPUmark/$Price,NA
+Overall Rank,"280th fastest in multithreading out of 4777 CPUs, 1485th fastest in single threading out of 4777 CPUs, 181st fastest in out of 1010 Server CPUs"
+Multithread Rating,31142
+Single Thread Rating,1955
+Samples,12
+Margin for error,Medium
+PerformanceTest V9,PerformanceTest V9
+CPU Mark,"27,897"
+Thread,"1,781"
+Integer Math,"133,012 MOps/Sec"
+Floating Point Math,"77,565 MOps/Sec"
+Find Prime Numbers,153 Million Primes/Sec
+Random String Sorting,"65,923 Thousand Strings/Sec"
+Data Encryption,"16,493 MBytes/Sec"
+Data Compression,"594,876 KBytes/Sec"
+Physics,"1,907 Frames/Sec"
+Extended Instructions,"38,427 Million Matrices/Sec"
+Single Thread,"1,955 MOps/Sec"

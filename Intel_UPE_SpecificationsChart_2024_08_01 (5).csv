@@ -1,0 +1,96 @@
+﻿UPE | Comparer les produits Intel®
+2024/08/01 22:44:08
+,Processeur Intel® Xeon® W7-2495X (45 Mo de cache- 2-50 GHz)
+
+Infos essentielles
+Collection de produits,Processeur Intel® Xeon® W
+Nom du code,Produits anciennement  Sapphire Rapids
+Segment vertical,Workstation
+N° du processeur,w7-2495X
+Lithographie,Intel 7
+Prix client conseillé,$2189.00-$2199.00
+
+Spécifications du processeur
+Nb. de cœurs,24
+Nombre de Performance-cores,24
+Nombre d'Efficient-cores,0
+Nombre total de threads,48
+Fréquence Turbo maxi,4.80 GHz
+Fréquence de la technologie Intel® Turbo Boost Max 3.0 ‡,4.80 GHz
+Fréquence de la technologie Intel® Turbo Boost 2.0‡,4.60 GHz
+Fréquence de base,2.50 GHz
+Cache,45 MB Intel® Smart Cache
+Vitesse Intel® UPI,0 GT/s
+Nb. de liaisons UPI,0
+Puissance de base du processeur,225 W
+Puissance Turbo max.,270 W
+
+Infos supplémentaires
+état,Launched
+Date de lancement,Q1'23
+Options embarquées disponibles,Non
+Conditions d'utilisation,Workstation
+
+Spécifications de la mémoire
+Capacité mémoire maxi (dépend du type de mémoire),2 TB
+Types de mémoire,DDR5-4800 (MT/s)
+Vitesse mémoire maximum,4800 MHz
+Nb. max. de canaux mémoire,4
+Pris en charge par la mémoire persistante Intel® Optane™ DC,Non
+Mémoire ECC prise en charge ‡,Oui
+
+Options d'extension
+Révision de l'interface multimédia directe (DMI),4.0
+évolutivité,1S Only
+Révision PCI Express,5.0
+Nb. de voies PCI Express max.,64
+
+Spécifications du package
+Sockets gérés,FCLGA4677
+Support de colis,E1B
+Configuration processeur(s) maxi,1
+DTS Max,94 °C
+TCASE,77
+Taille du conditionnement,77.5mm x 56.5mm
+
+Technologies avancées
+Intel® QuickAssist Technology (QAT),0 default devices
+Intel® Dynamic Load Balancer (DLB),0 default devices
+Intel® Data Streaming Accelerator (DSA),1 default devices
+Intel® In-memory Analytics Accelerator (IAA),0 default devices
+Intel® Advanced Matrix Extensions (AMX),Oui
+Intel® Deep Learning Boost (Intel® DL Boost),Oui
+Technologie Intel® Resource Director Technology (Intel® RDT),Non
+Technologies Intel® Speed Shift,Oui
+Technologie Intel® Turbo Boost Max 3.0 ‡,Oui
+Technologie Intel® Turbo Boost ‡,2.0
+Technologie Intel® Hyper-Threading ‡,Oui
+Intel® Transactional Synchronization Extensions – New Instructions,Oui
+Intel® 64 ‡,Oui
+Jeux d'instructions,64-bit
+Extensions au jeu d'instructions,Intel® SSE4.1 |  Intel® AMX |  Intel® SSE4.2 |  Intel® AVX2 |  Intel® AVX-512
+Nombre d'unités FMA AVX-512,2
+Technologie Intel SpeedStep® améliorée,Oui
+
+Sécurité et fiabilité
+Intel vPro® Eligibility ‡,Intel vPro® Enterprise
+Intel® Software Guard Extensions (Intel® SGX),Non
+Technologie Intel® Threat Detection (TDT),Non
+Technologie d'administration active Intel® ‡,Oui
+Intel® Remote Platform Erase (RPE) ‡,Non
+Intel® One-Click Recovery ‡,Non
+Accélérateur logiciel Intel® QuickAssist,Non
+Assistance Intel® Platform Firmware Resilience,Oui
+Intel® Control-Flow Enforcement Technology,Oui
+Intel® Total Memory Encryption - Clé multiple,Non
+Intel® Total Memory Encryption,Oui
+Nouvelles instructions Intel® AES,Oui
+Intel® OS Guard,Oui
+Technologie Intel® Trusted Execution Technology ‡,Oui
+Bit de verrouillage ‡,Oui
+Intel® Boot Guard,Oui
+Mode-based Execute Control (MBEC),Oui
+Technologie de virtualisation Intel® avec protection contre les redirections (VT-rp) ‡,Oui
+Technologie de virtualisation Intel® (VT-x) ‡,Oui
+Technologie de virtualisation Intel® pour les E/S réparties (VT-d) ‡,Oui
+Technologie de virtualisation Intel® VT-x avec tables de pagination (Extended Page Tables) ‡,Oui

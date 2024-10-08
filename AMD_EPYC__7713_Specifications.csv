@@ -1,0 +1,28 @@
+Attribute,Value
+Name,AMD EPYC™ 7713
+Family,EPYC
+Series,EPYC 7003 Series
+Form Factor,Servers
+# of CPU Cores,64
+# of Threads,128
+Max. Boost Clock,Up to 3.67 GHz
+Base Clock,2 GHz
+L3 Cache,256 MB
+1kU Pricing,7060 USD
+Default TDP,225W
+AMD Configurable TDP (cTDP),225-240W
+CPU Socket,SP3
+Socket Count,1P / 2P
+Launch Date,03/15/2021
+Connectivity,PCI Express® Version
+PCI Express® Version,PCIe® 4.0 x128
+System Memory Type,DDR4
+Memory Channels,8
+System Memory Specification,Up to 3200 MT/s
+Per Socket Mem BW,204.8 GB/s
+Product IDs,Product IDs
+Product ID Boxed,100-100000344WOF
+Product ID Tray,100-000000344
+Key Features,Key Features
+Supported Technologies,"AMD Infinity Guard , AMD Infinity Architecture"
+Workload Affinity,"Analytics , App dev|test , CAE|CFD|FEA , ERM|SCM|CRM apps , High capacity data mgmt (NR|RDBMS) , VDI , VM Density"

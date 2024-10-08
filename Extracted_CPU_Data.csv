@@ -1,0 +1,42 @@
+Processor,Host Processor Core Count,Processor Clock Speed (GHz)
+Intel(R) Xeon(R) Gold 6442Y,24,2.6 GHz
+AMD EPYC 9V84 96-Core Processor,96,2.0 GHz
+Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz,16,2.4 GHz
+Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz,24,2.5 GHz
+Intel(R) Xeon(R) Platinum 8592V,64,2.0 GHz
+Intel(R) Xeon(R) Platinum 8580,60,2.0 GHz
+Intel(R) Xeon(R) Gold 6338 CPU @ 2.00GHz,32,2.0 GHz
+AMD EPYC 9354 32-Core Processor,32,3.25 GHz
+Intel(R) Xeon(R) Platinum 8468,48,2.1 GHz
+Intel Xeon Platinum 8480,56,2.10 GHz
+Intel(R) Xeon(R) Gold 6448Y,32,2.1 GHz
+Intel Xeon Platinum 8580,60,2.0 GHz
+Intel(R) Xeon(R) Platinum 8452Y,36,2.0 GHz
+Intel(R) Xeon(R) Platinum 8481C,4,2.7 GHz
+AMD EPYC 7B13,60,2.2 GHz
+Intel(R) Xeon(R) Platinum 8468,48,2.1 GHz
+Intel(R) Xeon(R) Platinum 8580,60,2.0 GHz
+Intel(R) Xeon(R) Gold 6448H,32,2.4 GHz
+AMD EPYC 7713 64-Core Processor,64,2.0 GHz
+AMD EPYC 8124P 16-Core Processor,16,2.45 GHz
+Intel(R) Xeon(R) Platinum 8360Y CPU @ 2.40GHz,36,2.4 GHz
+Intel(R) Xeon(R) Platinum 8480+,56,2.0 GHz
+Intel(R) Xeon(R) Platinum 8480C,56,2.0 GHz
+AMD EPYC 7742 64-Core Processor,64,2.3 GHz
+AMD EPYC 9554 64-Core Processor,64,3.1 GHz
+Intel(R) Xeon(R) Platinum 8592+,64,1.9 GHz
+Intel(R) Xeon(R) Platinum 8470,52,2.0 GHz
+NVIDIA Grace CPU,72,2.7 GHz
+Intel(R) Xeon(R) Platinum 8592+,64,1.9 GHz
+Intel(R) Xeon(R) Platinum 8462Y+,32,2.8 GHz
+Intel(R) Xeon(R) Platinum 8568Y+,48,2.3 GHz
+Intel(R) Xeon(R) w7-2495X,24,2.5 GHz
+AMD Ryzen 9 7950X 16-Core Processor,16,4.5 GHz
+QUALCOMM Snapdragon 865 (QRB5165),8,2.84 GHz
+Intel(R) Xeon(R) Gold 6448Y CPU @ 2.10GHz,32,2.1 GHz
+Intel(R) Xeon(R) Gold 6433N,32,2.0 GHz
+Intel(R) Xeon(R) D-2733NT,8,2.1 GHz
+Intel(R) Xeon(R) Gold 6330N CPU @ 2.20GHz,28,2.2 GHz
+12-core ARM Cortex-A78AE CPU,12,3.0 GHz
+AMD EPYC 7282 16-Core Processor,16,2.8 GHz
+INTEL(R) XEON(R) GOLD 6538Y+,32,2.2 GHz

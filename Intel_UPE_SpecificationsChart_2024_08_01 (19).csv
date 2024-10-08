@@ -1,0 +1,93 @@
+﻿UPE | Comparer les produits Intel®
+2024/08/01 22:58:54
+,Processeur Intel® Xeon® Gold 6448Y (60 Mo de cache- 2-10 GHz)
+
+Infos essentielles
+Collection de produits,Processeurs Intel® Xeon® Scalable de 4ᵉ génération
+Nom du code,Produits anciennement  Sapphire Rapids
+Segment vertical,Server
+N° du processeur,6448Y
+Lithographie,Intel 7
+Prix client conseillé,$3583.00
+
+Spécifications du processeur
+Nb. de cœurs,32
+Nombre total de threads,64
+Fréquence Turbo maxi,4.10 GHz
+Fréquence de base,2.10 GHz
+Cache,60 MB
+Vitesse Intel® UPI,16 GT/s
+Nb. de liaisons UPI,3
+PDT,225 W
+
+Technologie Intel® Speed Select – Profil de performance (Intel® SST-PP)
+,ConfigActive CoresBase FrequencyTDPDescription6448Y(0)322.12256448Y(1)242.62256448Y(2)162.9205
+
+Infos supplémentaires
+état,Launched
+Date de lancement,Q1'23
+État d'entretien,Baseline Servicing
+Options embarquées disponibles,Oui
+Conditions d'utilisation,Server/Enterprise
+
+Spécifications de la mémoire
+Capacité mémoire maxi (dépend du type de mémoire),4 TB
+Types de mémoire,Up to DDR5 4800 MT/s 1DPC  Up to DDR5 4400 MT/s 2DPC
+Nb. max. de canaux mémoire,8
+Mémoire ECC prise en charge ‡,Oui
+
+Options d'extension
+évolutivité,2S
+Révision PCI Express,5
+Nb. de voies PCI Express max.,80
+
+Spécifications du package
+Sockets gérés,FCLGA4677
+Support de colis,E1B
+DTS Max,92 °C
+TCASE,79
+Taille du conditionnement,77.5mm x 56.5mm
+
+Mises à niveau disponibles Intel® On Demand
+,Activation Model ProductsQATDLBDSAIAASGX512Analytics Suite 11SGX512512
+
+Technologies avancées
+Activation des fonctionnalités Intel® On Demand,Oui
+Intel® Data Streaming Accelerator (DSA),1 default devices
+Intel® Advanced Matrix Extensions (AMX),Oui
+Technologie Intel® Speed Select – Core Power,Oui
+Technologie Intel® Speed Select – Turbo Frequency,Oui
+Intel® Deep Learning Boost (Intel® DL Boost),Oui
+Technologie Intel® Speed Select Technology – Profil de performances,Oui
+Technologie Intel® Speed Select Technology – Fréquence de base,Oui
+Cœurs à haute priorité,12
+Fréquence des cœurs à haute priorité,2.40 GHz
+Fréquence des cœurs à faible priorité,20
+Fréquence des cœurs à faible priorité,2.00 GHz
+Technologie Intel® Resource Director Technology (Intel® RDT),Oui
+Technologies Intel® Speed Shift,Oui
+Technologie Intel® Turbo Boost ‡,2.0
+Technologie Intel® Hyper-Threading ‡,Oui
+Intel® Transactional Synchronization Extensions – New Instructions,Oui
+Intel® 64 ‡,Oui
+Extensions au jeu d'instructions,Intel® AMX |  Intel® SSE4.2 |  Intel® AVX |  Intel® AVX2 |  Intel® AVX-512
+Nombre d'unités FMA AVX-512,2
+
+Sécurité et fiabilité
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® SPS
+Taille d'EPC (Enclave Page Cache) maximum pour Intel® SGX,128 GB
+Intel® Crypto Acceleration,Oui
+Accélérateur logiciel Intel® QuickAssist,Oui
+Assistance Intel® Platform Firmware Resilience,Oui
+Intel® Control-Flow Enforcement Technology,Oui
+Intel® Total Memory Encryption,Oui
+Nouvelles instructions Intel® AES,Oui
+Intel® OS Guard,Oui
+Technologie Intel® Trusted Execution Technology ‡,Oui
+Bit de verrouillage ‡,Oui
+Intel® Boot Guard,Oui
+Technologie Intel® Run Sure,Oui
+Mode-based Execute Control (MBEC),Oui
+Technologie de virtualisation Intel® (VT-x) ‡,Oui
+Technologie de virtualisation Intel® pour les E/S réparties (VT-d) ‡,Oui
+Technologie de virtualisation Intel® VT-x avec tables de pagination (Extended Page Tables) ‡,Oui

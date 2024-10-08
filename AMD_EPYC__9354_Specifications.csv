@@ -1,0 +1,29 @@
+Attribute,Value
+Name,AMD EPYC™ 9354
+Family,EPYC
+Series,EPYC 9004 Series
+Form Factor,Servers
+Regional Availability,"Global , China , NA , EMEA , APJ , LATAM"
+# of CPU Cores,32
+# of Threads,64
+Max. Boost Clock,Up to 3.8 GHz
+All Core Boost Speed,3.75 GHz
+Base Clock,3.25 GHz
+L3 Cache,256 MB
+1kU Pricing,3420 USD
+Default TDP,280W
+AMD Configurable TDP (cTDP),240-300W
+CPU Socket,SP5
+Socket Count,1P / 2P
+Launch Date,11/10/2022
+Connectivity,PCI Express® Version
+PCI Express® Version,PCIe® 5.0 x128
+System Memory Type,DDR5
+Memory Channels,12
+System Memory Specification,Up to 4800 MT/s
+Per Socket Mem BW,460.8 GB/s
+Product IDs,Product IDs
+Product ID Tray,100-000000798
+Key Features,Key Features
+Supported Technologies,"AMD Infinity Guard , AMD Infinity Architecture"
+Workload Affinity,"Analytics , CAE|CFD|FEA , ERM|SCM|CRM apps , Media streaming , Medium capacity data mgmt (NR|RDBMS) , VDI , VM Density"

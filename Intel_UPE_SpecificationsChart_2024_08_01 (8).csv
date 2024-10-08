@@ -1,0 +1,96 @@
+﻿UPE | Compare Intel® Products
+08/01/2024 10:44:50 PM
+,Intel® Xeon® Platinum 8462Y+ Processor (60M Cache- 2.80 GHz)
+
+Essentials
+Product Collection,4th Gen Intel® Xeon® Scalable Processors
+Code Name,Products formerly Sapphire Rapids
+Vertical Segment,Server
+Processor Number,8462Y+
+Lithography,Intel 7
+Recommended Customer Price,$5945.00
+
+CPU Specifications
+Total Cores,32
+Total Threads,64
+Max Turbo Frequency,4.10 GHz
+Processor Base Frequency,2.80 GHz
+Cache,60 MB
+Intel® UPI Speed,16 GT/s
+Max # of UPI Links,3
+TDP,300 W
+
+Intel® Speed Select Technology - Performance Profile (Intel® SST-PP)
+,ConfigActive CoresBase FrequencyTDPDescription8462Y+(0)322.83008462Y+(1)322.62708462Y+(2)243.0270
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q1'23
+Servicing Status,Baseline Servicing
+Embedded Options Available,Yes
+Use Conditions,Server/Enterprise
+
+Memory Specifications
+Max Memory Size (dependent on memory type),4 TB
+Memory Types,Up to DDR5 4800 MT/s 1DPC  Up to DDR5 4400 MT/s 2DPC
+Max # of Memory Channels,8
+ECC Memory Supported   ‡,Yes
+
+Expansion Options
+Scalability,2S
+PCI Express Revision,5
+Max # of PCI Express Lanes,80
+
+Package Specifications
+Sockets Supported,FCLGA4677
+Package Carrier,E1B
+DTS Max,99 °C
+TCASE,81
+Package Size,77.5mm x 56.5mm
+
+Intel® On Demand Available Upgrades
+,Activation Model ProductsQATDLBDSAIAASGX512Communication & Storage Suite 222SGX512512
+
+Advanced Technologies
+Intel® On Demand Activation Model,Yes
+Intel® QuickAssist Technology (QAT),1 default devices
+Intel® Dynamic Load Balancer (DLB),1 default devices
+Intel® Data Streaming Accelerator (DSA),1 default devices
+Intel® In-memory Analytics Accelerator (IAA),1 default devices
+Intel® Advanced Matrix Extensions (AMX),Yes
+Intel® Speed Select Technology – Core Power,Yes
+Intel® Speed Select Technology – Turbo Frequency,Yes
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Speed Select Technology - Performance Profile,Yes
+Intel® Speed Select Technology - Base Frequency,Yes
+High Priority Cores,12
+High Priority Core Frequency,3.00 GHz
+Low Priority Cores,20
+Low Priority Core Frequency,2.60 GHz
+Intel® Resource Director Technology (Intel® RDT),Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,Yes
+Intel® 64 ‡,Yes
+Instruction Set Extensions,Intel® AMX |  Intel® SSE4.2 |  Intel® AVX |  Intel® AVX2 |  Intel® AVX-512
+# of AVX-512 FMA Units,2
+
+Security & Reliability
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® SPS
+Default Maximum Enclave Page Cache (EPC) Size for Intel® SGX,128 GB
+Intel® Crypto Acceleration,Yes
+Intel® QuickAssist Software Acceleration,Yes
+Intel® Platform Firmware Resilience Support,Yes
+Intel® Control-Flow Enforcement Technology,Yes
+Intel® Total Memory Encryption,Yes
+Intel® AES New Instructions,Yes
+Intel® OS Guard,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Intel® Run Sure Technology,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes

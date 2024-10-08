@@ -1,0 +1,79 @@
+﻿UPE | Compare Intel® Products
+08/01/2024 10:40:30 PM
+,Intel® Xeon® Gold 6330N Processor (42M Cache- 2.20 GHz)
+
+Essentials
+Product Collection,3rd Gen Intel® Xeon® Scalable Processors
+Code Name,Products formerly Ice Lake
+Vertical Segment,Server
+Processor Number,6330N
+Lithography,10 nm
+Recommended Customer Price,$2389.00
+
+CPU Specifications
+Total Cores,28
+Total Threads,56
+Max Turbo Frequency,3.40 GHz
+Processor Base Frequency,2.20 GHz
+Cache,42 MB
+Intel® UPI Speed,11.2 GT/s
+Max # of UPI Links,3
+TDP,165 W
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q2'21
+Servicing Status,Baseline Servicing
+Embedded Options Available,Yes
+
+Memory Specifications
+Max Memory Size (dependent on memory type),6 TB
+Memory Types,DDR4-2667
+Maximum Memory Speed,2667 MHz
+Max # of Memory Channels,8
+Intel® Optane™ Persistent Memory Supported,Yes
+ECC Memory Supported   ‡,Yes
+
+Expansion Options
+Scalability,2S
+PCI Express Revision,4.0
+Max # of PCI Express Lanes,64
+
+Package Specifications
+Sockets Supported,FCLGA4189
+TCASE,86°C
+Package Size,77.5mm x 56.5mm
+
+Advanced Technologies
+Intel® Speed Select Technology – Core Power,Yes
+Intel® Speed Select Technology – Turbo Frequency,Yes
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+Intel® Speed Select Technology - Base Frequency,Yes
+High Priority Cores,18
+High Priority Core Frequency,2.30 GHz
+Low Priority Cores,10
+Low Priority Core Frequency,1.90 GHz
+Intel® Resource Director Technology (Intel® RDT),Yes
+Intel® Speed Shift Technology,Yes
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® Transactional Synchronization Extensions,Yes
+Intel® 64 ‡,Yes
+Instruction Set Extensions,Intel® SSE4.2 |  Intel® AVX |  Intel® AVX2 |  Intel® AVX-512
+# of AVX-512 FMA Units,2
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® SPS
+Default Maximum Enclave Page Cache (EPC) Size for Intel® SGX,64 GB
+Intel® Crypto Acceleration,Yes
+Intel® Platform Firmware Resilience Support,Yes
+Intel® Total Memory Encryption,Yes
+Intel® AES New Instructions,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® Run Sure Technology,Yes
+Mode-based Execute Control (MBEC),Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel® VT-x with Extended Page Tables (EPT) ‡,Yes

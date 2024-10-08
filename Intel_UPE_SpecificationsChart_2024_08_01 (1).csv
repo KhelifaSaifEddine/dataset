@@ -1,0 +1,81 @@
+﻿UPE | Compare Intel® Products
+08/01/2024 10:40:47 PM
+,Intel® Xeon® D-2733NT Processor (15M Cache- up to 3.20 GHz)
+
+Essentials
+Product Collection,Intel® Xeon® D Processor
+Code Name,Products formerly Ice Lake
+Vertical Segment,Server
+Processor Number,D-2733NT
+Lithography,10 nm
+
+CPU Specifications
+Total Cores,8
+# of Performance-cores,8
+Total Threads,16
+Max Turbo Frequency,3.20 GHz
+Processor Base Frequency,2.10 GHz
+Cache,15 MB
+Max # of UPI Links,0
+TDP,80 W
+Intel® Deep Learning Boost (Intel® DL Boost) on CPU,Yes
+
+Supplemental Information
+Marketing Status,Launched
+Launch Date,Q1'22
+Embedded Options Available,Yes
+Use Conditions,Automotive |  Base Transceiver Station |  Communications Commercial Temp |  Embedded Broad Market Commercial Temp |  Industrial Commercial Temp |  Server/Enterprise
+Product Brief,View now
+
+Memory Specifications
+Max Memory Size (dependent on memory type),1 TB
+Memory Types,DDR4
+Maximum Memory Speed,2667 MHz
+Max # of Memory Channels,4
+Intel® Optane™ Persistent Memory Supported,No
+ECC Memory Supported   ‡,Yes
+
+Expansion Options
+Scalability,1S Only
+PCI Express Revision,4.0
+Microprocessor PCIe Revision,Gen 4
+Chipset / PCH PCIe Revision,Gen 3
+Max # of PCI Express Lanes,32
+
+I/O Specifications
+# of USB Ports,4
+USB Revision,3.0
+Integrated LAN,Yes
+Max # of SATA 6.0 Gb/s Ports,24
+
+Package Specifications
+Sockets Supported,FCBGA2579
+Package Size,52.5 mm x 45 mm
+
+Advanced Technologies
+Intel® Resource Director Technology (Intel® RDT),Yes
+Intel® Optane™ Memory Supported ‡,No
+Intel® Turbo Boost Technology ‡,2.0
+Intel® Hyper-Threading Technology ‡,Yes
+Intel® 64 ‡,Yes
+Instruction Set,64-bit
+Instruction Set Extensions,Intel® AVX-512
+# of AVX-512 FMA Units,1
+Enhanced Intel SpeedStep® Technology,Yes
+Thermal Monitoring Technologies,Yes
+Integrated Intel® QuickAssist Technology,Yes
+Intel® Volume Management Device (VMD),Yes
+
+Security & Reliability
+Intel® Software Guard Extensions (Intel® SGX),Yes with Intel® SPS
+Default Maximum Enclave Page Cache (EPC) Size for Intel® SGX,64 GB
+Intel® QuickAssist Software Acceleration,Yes
+Intel® Total Memory Encryption,Yes
+Intel® AES New Instructions,Yes
+Intel® Trusted Execution Technology ‡,Yes
+Execute Disable Bit ‡,Yes
+Intel® Boot Guard,Yes
+Intel® Platform Firmware Resilience Support,Yes
+Intel® Crypto Acceleration,Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes

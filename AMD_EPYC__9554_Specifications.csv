@@ -1,0 +1,24 @@
+Attribute,Value
+Name,AMD EPYC™ 9554
+Family,EPYC
+Series,EPYC 9004 Series
+Form Factor,Servers
+Regional Availability,"Global , China , NA , EMEA , APJ , LATAM"
+# of CPU Cores,64
+# of Threads,128
+Max. Boost Clock,Up to 3.75 GHz
+All Core Boost Speed,3.75 GHz
+Base Clock,3.1 GHz
+L3 Cache,256 MB
+1kU Pricing,9087 USD
+Default TDP,360W
+AMD Configurable TDP (cTDP),320-400W
+CPU Socket,SP5
+Socket Count,1P / 2P
+Launch Date,11/10/2022
+Connectivity,PCI Express® Version
+PCI Express® Version,PCIe® 5.0 x128
+System Memory Type,DDR5
+Memory Channels,12
+System Memory Specification,Up to 4800 MT/s
+Per Socket Mem BW,460.8 GB/s
